@@ -4,13 +4,14 @@
     width: 40vw;
     background: url(img2.png) no-repeat;
     background-size: 100%;
+    margin: auto;
 }
 
 #hour,
 #min,
 #sec {
     position: absolute;
-    background: yellow;
+    background: black;
     border-radius: 10px;
     transform-origin: bottom;
 }
